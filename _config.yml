@@ -3,6 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
 
+host: 127.0.0.1
 # Site settings
 title: "Manual Lenses on Fuji X Cameras"
 description: > # this means to ignore newlines until "email:"
